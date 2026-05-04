@@ -1,0 +1,8 @@
+{
+  "appId": "com.say.app",
+  "appName": "سَعْي",
+  "webDir": ".output/public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
